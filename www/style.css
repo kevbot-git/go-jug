@@ -1,0 +1,16 @@
+/* CSS Document  */
+
+.fill-x {
+    width: 100%;
+}
+
+.btn.boil {
+    height: 4rem;
+    line-height: 4rem;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+}
